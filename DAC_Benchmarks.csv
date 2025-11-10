@@ -1,0 +1,4 @@
+Input Size,Quicksort Time (s),HashTable Time (s)
+1000,0.00432,0.00110
+5000,0.02541,0.00523
+10000,0.05982,0.01167
